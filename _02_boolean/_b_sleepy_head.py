@@ -5,6 +5,7 @@ paths.
 
 
 if __name__ == '__main__':
+    is_weekday = day == 'Saturday'
     # TODO)
     #  1. Use a boolean variable to indicate if it is the weekend.
     #     Display a different message to the user depending on whether it is
